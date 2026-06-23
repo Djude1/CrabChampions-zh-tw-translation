@@ -1,5 +1,5 @@
 # Crab Champions 繁體中文翻譯補包
-
+![H嘎里](Image/H嘎里.png)
 把 Steam 上的 Crab Champions 變成繁體中文。一個檔案搞定，免設定、可隨時解除。
 
 ## 📥 安裝
